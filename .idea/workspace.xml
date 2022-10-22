@@ -2,117 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Task6.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HM1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HM2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HM3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HM6Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HW5email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/HW6primeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/MethodsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/StringBufferVsStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/Taskk6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class14/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/HondaBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/LocalVariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/PrimeSecondway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task1LargerNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task2evenOrodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task3Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task4Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task5Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task5primeOrnot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/Task7GRADE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class15/repl116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/repl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/EmpTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task1Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task2Reserve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class17/Task3Vowes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Tas1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Task3Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/ThisKeyWordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class18/catTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class20/MethodOverLoading02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class20/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class20/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class20/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class20/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/FireFox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Task2C20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriverTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/DataBaseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/HM1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/IDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class23/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/FirstInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/HM3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day19/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rewiew3/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rewiew3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rewiew3/SyntaxTechnologies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rewiew3/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Ifelse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/StringRecap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/StringRecap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19/FirstInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19/FirstInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +47,7 @@
       <recent name="Class23" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondInterface">
+  <component name="RunManager" selected="Application.fileTester">
     <configuration name="Class23.DataBaseTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class23.DataBaseTester" />
       <module name="SDETBatch14Javaa" />
@@ -224,10 +115,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fileTester" />
         <item itemvalue="Application.SecondInterface" />
         <item itemvalue="Application.Day19.Main" />
         <item itemvalue="Application.Day19.Point" />
-        <item itemvalue="Application.fileTester" />
         <item itemvalue="Application.Class23.DataBaseTester" />
       </list>
     </recent_temporary>
@@ -248,7 +139,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664645288480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task6.java">
+      <created>1666469015566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666469015566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task6.java">
+      <created>1666469689671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666469689671</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task6.java">
+      <created>1666469726307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666469726307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +175,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task6" />
     <MESSAGE value="Task6.java" />
     <option name="LAST_COMMIT_MESSAGE" value="Task6.java" />
   </component>

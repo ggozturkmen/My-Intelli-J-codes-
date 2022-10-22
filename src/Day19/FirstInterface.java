@@ -2,7 +2,12 @@ package Day19;
 
  interface FirstInterface {
 
+     void secondMethod();
+
      void FirstMethod();
+
+     void secondtMethod();
+
      void SecondMethod();
     }
 
@@ -10,8 +15,18 @@ package Day19;
  class SecondInterface implements FirstInterface{
 
      @Override
-     public void FirstMethod() {
+     public void secondMethod() {
          System.out.println("Second Method implementing multiple Inheritance");
+     }
+
+     @Override
+     public void FirstMethod() {
+
+     }
+
+     @Override
+     public void secondtMethod() {
+
      }
 
      public void SecondMethod(){
