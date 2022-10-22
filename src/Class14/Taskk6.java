@@ -1,9 +1,10 @@
 package Class14;
 
-public class Task6 {
+public class Taskk6 {
 
     public static void main(String[] args) {
-        //How would you swap 2 string without temprary variable
+        //How would you swap 2 strings without a temporary variable?
+
 
         String str1="python";
         String str2="Java";
@@ -13,4 +14,6 @@ public class Task6 {
         System.out.println(str1);
         System.out.println(str2);
     }
+
+
 }

@@ -1,0 +1,32 @@
+What is inheritance:
+Its a mechanism through which a class can inherit the properties of another class.
+Why we sould lear: It helps us avoid code duplication. It helps us save space.
+It helps us improve execution speed.
+What is the syntax:
+we use the extends keyword and the name of the class from which we want to inhrerir the fields ans methodd while declaring the class.
+Types of inheritance:
+There can be 4 types of inheritance but java only supports 3 of them in classes.
+there xan be 4 types of inheritance but java only supports 3 of them with classes.
+1)single
+2)multilevel
+3)hiarrarhical
+4)multiple(not supported by classes in java.)
+Single inheritance:When we have only one parent and one child classes in inheritance it is called single inheritance. not widely used
+Multileve
+; on top level and one base class and many intermadiate classes
+
+
+Super keyweos;
+We use the super keyword to explicity call the variable from the parent class. when we have same name instance varaible in child class and parent class.
+
+we can also use the super keyword to ca;; constructor of the parent class.
+==============================================
+MethodOVERLOADING=Method over loading allows us to create multiple methods in a class with same name.
+Why we should create;it helps us write cleaner code.
+Syntax:create different methods but kepp the following points in mind.
+we can overload a method by changing the data type of a paramter;
+we can overload a method by changing the sequance
+dataType method name(parameter)
+
+it gives the end user flexibility.
+The end user can call same method with different parameter to get same or different result.
