@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Task6.java">
+    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day19/FirstInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19/FirstInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666469726307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice">
+      <created>1666474980645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666474980645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +183,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task6" />
     <MESSAGE value="Task6.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task6.java" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
