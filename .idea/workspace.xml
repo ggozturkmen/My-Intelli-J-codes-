@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/src/PracticeDemo/Demo1.java" afterDir="false" />
+    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Demo2">
+      <change afterPath="$PROJECT_DIR$/src/practice/DEMO3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +46,13 @@
       <recent name="Class23" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fileTester">
-    <configuration name="Class23.DataBaseTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class23.DataBaseTester" />
+  <component name="RunManager" selected="Application.DEMO3">
+    <configuration name="DEMO3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.DEMO3" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class23.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DEMO3" />
         <item itemvalue="Application.fileTester" />
         <item itemvalue="Application.SecondInterface" />
         <item itemvalue="Application.Day19.Main" />
         <item itemvalue="Application.Day19.Point" />
-        <item itemvalue="Application.Class23.DataBaseTester" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666474980645</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Demo2">
+      <created>1666477818927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666477818927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +191,7 @@
     <MESSAGE value="Task6" />
     <MESSAGE value="Task6.java" />
     <MESSAGE value="Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
+    <MESSAGE value="Demo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo2" />
   </component>
 </project>
