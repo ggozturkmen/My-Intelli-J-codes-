@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Demo2">
-      <change afterPath="$PROJECT_DIR$/src/practice/DEMO3.java" afterDir="false" />
+    <list default="true" id="3a33bda2-9beb-439d-ab96-592ae3397f3e" name="Changes" comment="Practice3">
+      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayList5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/HM1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/WhycollectionaFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/ArrayListMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/Collection FrameWork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/ContainAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/RemoveAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/WhyWeNeedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/iteratordEMO3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +64,13 @@
       <recent name="Class23" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DEMO3">
-    <configuration name="DEMO3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.DEMO3" />
+  <component name="RunManager" selected="Application.IteratorDemo">
+    <configuration name="Class25.ArrayListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class25.ArrayListMethod" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="Class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day19.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day19.Main" />
+    <configuration name="Class25.ContainAllDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class25.ContainAllDemo" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day19.*" />
+          <option name="PATTERN" value="Class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day19.Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day19.Point" />
+    <configuration name="Class25.RemoveAllDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class25.RemoveAllDemo" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day19.*" />
+          <option name="PATTERN" value="Class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day19.SecondInterface" />
+    <configuration name="HM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class24.HM1" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day19.*" />
+          <option name="PATTERN" value="Class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fileTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class23.fileTester" />
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class25.IteratorDemo" />
       <module name="SDETBatch14Javaa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class23.*" />
+          <option name="PATTERN" value="Class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DEMO3" />
-        <item itemvalue="Application.fileTester" />
-        <item itemvalue="Application.SecondInterface" />
-        <item itemvalue="Application.Day19.Main" />
-        <item itemvalue="Application.Day19.Point" />
+        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.Class25.ContainAllDemo" />
+        <item itemvalue="Application.Class25.RemoveAllDemo" />
+        <item itemvalue="Application.Class25.ArrayListMethod" />
+        <item itemvalue="Application.HM1" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666477818927</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Practice3">
+      <created>1666548857161</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548857161</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +217,7 @@
     <MESSAGE value="Task6.java" />
     <MESSAGE value="Practice" />
     <MESSAGE value="Demo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo2" />
+    <MESSAGE value="Practice3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice3" />
   </component>
 </project>

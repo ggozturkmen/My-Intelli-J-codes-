@@ -1,0 +1,26 @@
+Collection FrameWork:
+
+is collection of multiple classses and interfaces which help us process data efficiently and easily.
+Why we should learn about it when we aleady have arrays;
+it is flexible
+provide ready made methods that we can just use
+Syntax:
+It is similar how we create the object of any class but we use<>spisify the name of the clas whos objects we are going to store in that class.
+Issues with Collections Framework;
+collection frame work does not work with primitive data types(Solution is use wrapper classes
+)
+Wrapper classes:
+are object types for all primitive types.
+Boxing: converting the primitive type to its corresponding wrapper type
+//Frequently asked interview questions
+Auto boxing: converting the primitive type to its corresponding wrapper type simply assigning the value
+//Unboxing
+
+Converting a wrapper to its corresponding primitive type by expilicity calling a method
+//int num=wrapped.intValue();
+
+//Auto Unboxing;
+converting a wrapper to a corresponding primitive automaticallay by just assigning the valur
+
+Integer wrappedNum=new Integer(10);
+int num2=WrappedNum;
